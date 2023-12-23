@@ -1,0 +1,11 @@
+.root {
+  width: 1024px;
+  margin: 0 auto;
+  margin-top: 100px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  justify-content: center;
+  align-items: center;
+}
